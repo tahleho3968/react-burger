@@ -6,7 +6,7 @@
 
 > 🍔 A customizable burger builder built with React — toggle fillings on/off and build your perfect burger!
 
-![React Burger Screenshot](https://via.placeholder.com/800x400?text=🍔+React+Burger+Builder)
+![Desktop](./screenshots/desktop-view.png)
 
 ---
 
